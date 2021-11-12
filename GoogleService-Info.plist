@@ -3,32 +3,32 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>820318920084-1ggo3rode1th34ema0rujkethugv2sgj.apps.googleusercontent.com</string>
+	<string>776831209380-bp7cp6gp7fgapl2rmaevc6mphl2drbch.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.820318920084-1ggo3rode1th34ema0rujkethugv2sgj</string>
+	<string>com.googleusercontent.apps.776831209380-bp7cp6gp7fgapl2rmaevc6mphl2drbch</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAyRp3iovgAbtvucvwHFmZ1UsLZLLaOjnc</string>
+	<string>AIzaSyAwwTDiNMWthkfWUpFMS1StYc0Wy18b2s4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>820318920084</string>
+	<string>776831209380</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.constraints.demo</string>
 	<key>PROJECT_ID</key>
-	<string>fir-chatexample-9bd3d</string>
+	<string>chatapplication-1ae6f</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fir-chatexample-9bd3d.appspot.com</string>
+	<string>chatapplication-1ae6f.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:820318920084:ios:5605a656549c7af873c381</string>
+	<string>1:776831209380:ios:a5b1f1ba92178477fb7b31</string>
 </dict>
 </plist>
